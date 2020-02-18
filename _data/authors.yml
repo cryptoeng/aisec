@@ -1,0 +1,21 @@
+johndoe:
+  name: John Doe
+  picture: /images/john-doe.jpg
+  twitter: johndoe
+benny:
+  name: Benny
+  email:
+  twitter: hm
+  links:
+franziskus:
+  name: Dr. Franziskus Kiefer
+  picture: /images/franziskus-kiefer-photo.jpg
+  email: franziskus.kiefer@aisec.fraunhofer.de
+  twitter: _franziskus_
+  links:
+    - title: GitHub
+      url: https://github.com/franziskuskiefer
+      icon: fab fa-github-square
+    - title: Website
+      url: https://www.franziskuskiefer.de
+      icon: fa fa-globe

@@ -19,3 +19,7 @@ franziskus:
     - title: Website
       url: https://www.franziskuskiefer.de
       icon: fa fa-globe
+tudor:
+  name: Tudor A. A. Soroceanu
+  picture: /images/tudor-soroceanu-photo.jpg
+  email: tudor.soroceanu@aisec.fraunhofer.de

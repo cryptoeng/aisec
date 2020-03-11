@@ -13,5 +13,6 @@ some about bla
 * [FLOQI](./projects/floqi)
 
 ## About us
+* [Benjamin](./about/benjamin)
 * [Franziskus](./about/franziskus)
 * [Tudor](./about/tudor)

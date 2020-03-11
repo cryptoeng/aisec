@@ -1,6 +1,6 @@
 ---
 title: "FLOQI"
-author: benny
+author: benjamin
 image: 
   path: /images/cyber-security-3400657_1920.jpg
   thumbnail: /images/cyber-security-3400657_640.jpg

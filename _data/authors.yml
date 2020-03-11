@@ -2,11 +2,14 @@ johndoe:
   name: John Doe
   picture: /images/john-doe.jpg
   twitter: johndoe
-benny:
-  name: Benny
-  email:
-  twitter: hm
+benjamin:
+  name: Benjamin Zengin
+  picture: /images/benjamin-zengin-photo.jpg
+  email: benjamin.zengin@aisec.fraunhofer.de
   links:
+    - title: GitHub
+      url: https://github.com/benj-zen
+      icon: fab fa-github-square
 franziskus:
   name: Dr. Franziskus Kiefer
   picture: /images/franziskus-kiefer-photo.jpg

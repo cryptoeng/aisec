@@ -14,3 +14,4 @@ some about bla
 
 ## About us
 * [Franziskus](./about/franziskus)
+* [Tudor](./about/tudor)

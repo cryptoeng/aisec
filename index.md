@@ -11,6 +11,7 @@ some about bla
 ## Projects
 * [KBLS](./projects/kbls)
 * [FLOQI](./projects/floqi)
+* [PoQuID](./projects/poquid)
 
 ## About us
 * [Benjamin](./about/benjamin)

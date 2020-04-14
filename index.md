@@ -6,7 +6,7 @@ paginate: true
 entries_layout: list
 ---
 
-some about bla
+Welcome to the Crypto Engineering group at [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/).
 
 ## Projects
 * [KBLS](./projects/kbls)

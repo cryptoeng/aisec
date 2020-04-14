@@ -1,10 +1,6 @@
 ---
 title: "FLOQI"
 author: benjamin
-image: 
-  path: /images/cyber-security-3400657_1920.jpg
-  thumbnail: /images/cyber-security-3400657_640.jpg
-  caption: "Photo from [Pixabay](https://pixabay.com)"
 ---
 
 Global digital communication is secured by means of asymmetric cryptography to meet cryptographic security goals. The development of powerful quantum computers will in future threaten these security goals and the infrastructures behind them.

@@ -16,3 +16,4 @@ Welcome to the Crypto Engineering group at [Fraunhofer AISEC](https://www.aisec.
 ## About us
 * [Benjamin](./about/benjamin)
 * [Tudor](./about/tudor)
+* [Marian](./about/marian)

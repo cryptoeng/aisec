@@ -26,3 +26,12 @@ tudor:
   name: Tudor A. A. Soroceanu
   picture: /images/tudor-soroceanu-photo.jpg
   email: tudor.soroceanu@aisec.fraunhofer.de
+marian:
+  name: Marian Sigler
+  picture: /images/bio-photo-3.jpg
+  email: sigler@inf.fu-berlin.de
+  twitter: dingens
+  links:
+    - title: GitHub
+      url: https://github.com/dingens
+      icon: fab fa-github-square
